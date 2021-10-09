@@ -20,16 +20,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: latest-posts
-    type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
